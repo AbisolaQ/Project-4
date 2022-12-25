@@ -6,14 +6,13 @@ __MEAN stack__ is a combination of the following:
 * Angular (Front-end application framework) – Handles Client ana server Requests.
 * Node.js (JavaScript runtime environment) – Accepts requests and displays results to end user.
 
-In order to complete this project you will need an AWS account and a virtual server with Ubuntu Server OS.
+To complete this project you will need an AWS account and an instance with Ubuntu Server OS. We are setting up a MEAN STACK using EC2.
 
-We are setting up a MEAN STACK using EC2 as our virtual server.
-To do this we need to do the following:
+We need to do the following:
 
 * create an account on [AWS](https://aws.amazon.com/). 
 * we create an instance (virtual machine) by selecting __“ubuntu server 20.04 LTS”__ from Amazon Machine Image(AMI)(free tier). 
-* we select “t2.micro(free tier eligible)” 
+* we select “t2.micro(free tier eligible)”.
 * then go to the security group and select “existing security group” review and launch.
 
  How to create an aws free tier account. click [here](https://www.youtube.com/watch?v=xxKuB9kJoYM&list=PLtPuNR8I4TvkwU7Zu0l0G_uwtSUXLckvh&index=7)
