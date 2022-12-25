@@ -11,7 +11,7 @@ In order to complete this project you will need an AWS account and a virtual ser
 We are setting up a MEAN STACK using EC2 as our virtual server.
 To do this we need to do the following:
 
-* create an account on [AWS](www.aws.amazon.com). 
+* create an account on [AWS](https://aws.amazon.com/). 
 * we create an instance (virtual machine) by selecting __“ubuntu server 20.04 LTS”__ from Amazon Machine Image(AMI)(free tier). 
 * we select “t2.micro(free tier eligible)” 
 * then go to the security group and select “existing security group” review and launch.
