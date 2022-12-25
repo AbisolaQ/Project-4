@@ -13,7 +13,7 @@ We need to do the following:
 * create an account on [AWS](https://aws.amazon.com/). 
 * we create an instance (virtual machine) by selecting __“ubuntu server 20.04 LTS”__ from Amazon Machine Image(AMI)(free tier). 
 * we select “t2.micro(free tier eligible)”.
-* then go to the security group and select “existing security group” review and launch.
+* then go to the security group and select “a security group” review and launch.
 
  How to create an aws free tier account. click [here](https://www.youtube.com/watch?v=xxKuB9kJoYM&list=PLtPuNR8I4TvkwU7Zu0l0G_uwtSUXLckvh&index=7)
 
